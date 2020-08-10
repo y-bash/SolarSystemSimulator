@@ -2,8 +2,8 @@
 
 An implementation of the Solar System simulator in Processing 3.
 
-![](https://raw.githubusercontent.com/y-bash/SolarSystemSimulator/master/image1.jpg)
-![](https://raw.githubusercontent.com/y-bash/SolarSystemSimulator/master/image2.jpg)
+![](https://raw.githubusercontent.com/y-bash/SolarSystemSimulator/master/image1.gif)
+![](https://raw.githubusercontent.com/y-bash/SolarSystemSimulator/master/image2.gif)
 
 このプログラムは Qiita への以下の投稿で使用したものです。
 > [Gopher君がゆく Episode II ～ ミジンコでも一晩で作れる太陽系シミュレーター、そして暗黒面](https://qiita.com/y-bash/items/c01638493a891308fa20)
@@ -23,7 +23,7 @@ Use arrow keys to control camera.
 |Page up|Move forward|
 |Page down|Move backword|
 
-![](https://raw.githubusercontent.com/y-bash/SolarSystemSimulator/master/image3.jpg)
+![](https://raw.githubusercontent.com/y-bash/SolarSystemSimulator/master/image3.gif)
 
 ## License
 
